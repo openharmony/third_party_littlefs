@@ -11,14 +11,16 @@
     "scripts": {},
     "licensePath": "LICENSE.md",
     "component": {
-        "name": "thirdparty_littlefs",
+        "name": "littlefs",
         "subsystem": "",
         "syscap": [],
         "features": [],
-        "adapted_system_type": [],
-        "rom": "",
-        "ram": "",
-        "deps": {
+        "adapted_system_type": [
+            "mini"
+        ],
+        "rom": "56KB",
+        "ram": "112KB",
+        "external_deps": {
             "components": [],
             "third_party": []
         },

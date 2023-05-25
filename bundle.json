@@ -12,7 +12,7 @@
     "licensePath": "LICENSE.md",
     "component": {
         "name": "littlefs",
-        "subsystem": "",
+        "subsystem": "thirdparty",
         "syscap": [],
         "features": [],
         "adapted_system_type": [

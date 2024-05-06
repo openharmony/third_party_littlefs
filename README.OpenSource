@@ -3,7 +3,7 @@
         "Name"                  : "littlefs",
         "License"               : "BSD 3-Clause License",
         "License File"          : "LICENSE.md",
-        "Version Number"        : "V2.5",
+        "Version Number"        : "V2.8",
         "Owner"                 : "wangmihu@huawei.com",
         "Upstream URL"          : "https://github.com/littlefs-project/littlefs",
         "Description"           : "A little fail-safe filesystem designed for microcontrollers."
